@@ -1,0 +1,34 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+/.pnp
+.pnp.js
+
+# Configuración específica de Visual Studio Code
+.vscode/
+
+# Entorno de desarrollo
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Ficheros temporales
+.pnpm
+node_modules
+.DS_Store
+Thumbs.db
+
+# Directorio de producción
+/dist/
+
+# Configuración de MongoDB
+/data/
