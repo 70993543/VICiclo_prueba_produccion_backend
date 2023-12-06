@@ -10,7 +10,7 @@ package-lock.json
 .vscode/
 
 # Entorno de desarrollo
-.env
+variables.env
 
 # Logs
 logs
