@@ -11,6 +11,7 @@ package-lock.json
 
 # Entorno de desarrollo
 variables.env
+.env
 
 # Logs
 logs
