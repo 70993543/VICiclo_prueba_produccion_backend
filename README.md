@@ -11,5 +11,5 @@ Verificar el .env.example y crear un archivo .env donde contenga la url de la ba
 
 Iniciar servidor
 ```cmd
-npm run server
+npm run dev
 ```
